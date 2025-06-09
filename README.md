@@ -1,3 +1,6 @@
+NAME:R.ANUSRI
+DOMAIN:DATA ANALYST
+CODTECH IT SOLUTIONS
 # TEXT-SUMMARIZATION-TOOL
 A tool that uses NLP techniques to summarize long pieces of text.
 
